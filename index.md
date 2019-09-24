@@ -1,11 +1,16 @@
-## Welcome to Imbalanced (Gandling, EU)
+## Welcome!
 
 If you made it this far, you probably have some basic questions regarding the guild.
 - What we're about
 - Who are we
 - How can you join?!
 
-### Markdown
+### Imbalanced
+
+We're a small core of lads which used to play together back in the good old days. 
+Back then we were all young lads without a care in the world, however now we're all working steady
+jobs, wifes/girfriends and kids. But we found are way back to this old gem and decided we'ed give
+the old raiding a go again.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
