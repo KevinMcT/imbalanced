@@ -1,8 +1,9 @@
 ## Welcome to Imbalanced (Gandling, EU)
 
-You can use the [editor on GitHub](https://github.com/KevinMcT/imbalanced/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you made it this far, you probably have some basic questions regarding the guild.
+- What we're about
+- Who are we
+- How can you join?!
 
 ### Markdown
 
