@@ -1,43 +1,38 @@
 ## Welcome!
 
 If you made it this far, you probably have some basic questions regarding the guild.
-- What we're about
 - Who are we
+- What we're about
 - How can you join?! - (TLDR [Apply](https://forms.gle/L4999y2iGFdHx6Sf9))
 
-### Imbalanced
+### Imbalanced (Who are we)
 
 We're a small core of lads which used to play together back in the good old days. 
 Back then we were all young lads without a care in the world, however now we're all working steady
 jobs, wifes/girfriends and kids. But we found are way back to this old gem and decided we'ed give
 the old raiding a go again.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We used to be quite "hardcore" raiders raiding more or less every day however, this time around
+we're setting out sights on a bit more casual progression.
 
-```markdown
-Syntax highlighted code block
+This is however up for debate depending on the overall feeling inside the guild.
+If we have members for more then the currently planned 3(?) raids, we might set up more.
 
-# Header 1
-## Header 2
-### Header 3
+### What we're about
 
-- Bulleted
-- List
+Looking to start a "casual" raiding guild aiming to clear the content as its release.
 
-1. Numbered
-2. List
+### Join us (How can you join?!)
 
-**Bold** and _Italic_ and `Code` text
+If you can't get a hold of an officer ingame, follow the link below and we'll get in touch asap.
 
-[Link](url) and ![Image](src)
-```
+[Apply](https://forms.gle/L4999y2iGFdHx6Sf9)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Progress
 
-### Jekyll Themes
+NONE! We havnt started yet - Still in the recruitment phase.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KevinMcT/imbalanced/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Disclaimer
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Website was literally created in 5 minutes..
