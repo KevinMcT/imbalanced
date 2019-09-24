@@ -3,7 +3,7 @@
 If you made it this far, you probably have some basic questions regarding the guild.
 - What we're about
 - Who are we
-- How can you join?!
+- How can you join?! - (TLDR [Apply](https://forms.gle/L4999y2iGFdHx6Sf9))
 
 ### Imbalanced
 
