@@ -27,16 +27,16 @@ Monday: 20.00 - 23.00
 ### Loot distribution
 We'll to be using a combination of Loot Council and rolling to distribute loot.
 
-### Join us (How can you join?!)
+## Join us (How can you join?!)
 
 If you can't get a hold of an officer ingame, follow the link below and we'll get in touch asap.
 
 [Apply](https://forms.gle/L4999y2iGFdHx6Sf9)
 
-### Progress
+## Progress
 
 NONE! We havnt started yet - Still in the recruitment phase.
 
-### Disclaimer
+## Disclaimer
 
 "Website" was literally created in 5 minutes..
