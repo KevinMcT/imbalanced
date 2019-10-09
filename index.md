@@ -16,7 +16,7 @@ the old raiding a go again.
 
 We used to be quite "hardcore" raiders raiding more or less every day however, this time around
 we're setting out sights on a bit more casual progression. And with that said, we hope that we can
-find some like minded people to share the nostalgia wiht as we clear out the different raids when they're
+find some like minded people to share the nostalgia with as we clear out the different raids when they're
 released.
 
 ### Raid Times
