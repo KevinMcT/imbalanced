@@ -21,8 +21,8 @@ released.
 
 ### Raid Times
 Currently planned raid times are:
-Sunday: 20.00 - 23.00
-Monday: 20.00 - 23.00
+* Sunday: 19.30 - 23.30(ish)
+* Wednesday: 19.30 - 23.30(ish)
 
 ### Loot distribution
 We'll to be using a combination of Loot Council and rolling to distribute loot.
