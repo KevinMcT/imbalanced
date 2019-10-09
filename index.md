@@ -29,7 +29,7 @@ We'll to be using a combination of Loot Council and rolling to distribute loot.
 
 ## Join us (How can you join?!)
 
-The current core is just north of 20 players fairly evenly spread out across all classes.
+The current core is just north of 20 players fairly evenly spread out across all classes.  
 Thus we're not full on any given class as of right now!
 
 If you can't get a hold of an officer ingame, follow the link below and we'll get in touch asap.
