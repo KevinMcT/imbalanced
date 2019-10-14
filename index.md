@@ -7,14 +7,14 @@ If you made it this far, you probably have some basic questions regarding the gu
 
 ## Imbalanced (Who are we)
 
-We're a small core of lads which used to play together back in the good old days. 
+The core consists of lads which used to play together back in the good old days. 
 Back then we were all young lads without a care in the world, however now we're all working steady
 jobs, wifes/girfriends and kids. But we found are way back to this old gem and decided we'ed give
 the old raiding a go again.
 
 ## What we're about
 
-We used to be quite "hardcore" raiders raiding more or less every day however, this time around
+Most of us used to be quite "hardcore" raiders raiding more or less every day however, this time around
 we're setting out sights on a bit more casual progression. And with that said, we hope that we can
 find some like minded people to share the nostalgia with as we clear out the different raids when they're
 released.
