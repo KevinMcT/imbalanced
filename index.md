@@ -33,7 +33,7 @@ If we're to be proven wrong, the system would be reevaluated.
 
 ## Join us (How can you join?!)
 
-The current core is just north of 30+ players fairly evenly spread out across all classes.  
+The current core is just north of 40+ players fairly evenly spread out across all classes.  
 
 Full on:
 Mage
