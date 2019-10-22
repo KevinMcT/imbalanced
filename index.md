@@ -35,7 +35,8 @@ If we're to be proven wrong, the system would be reevaluated.
 
 The current core is just north of 30+ players fairly evenly spread out across all classes.  
 
-Full on:  
+Full on:
+Mage
 Warriors  
 H Priests
 
@@ -43,8 +44,11 @@ If you can't get a hold of an officer ingame, follow the link below and we'll ge
 [Apply](https://forms.gle/L4999y2iGFdHx6Sf9)
 
 ## Progress
-
-NONE! We havnt started yet - Still in the recruitment phase.
+###Phase 1
+[X]MC - 10/10  
+[X]Ony  
+###Phase 2
+[] BWL 0/X
 
 ## Disclaimer
 
