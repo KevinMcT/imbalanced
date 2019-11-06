@@ -21,8 +21,8 @@ released.
 
 ### Raid Times
 Currently planned raid times are:
-* Sunday: 19.30 - 23.30(ish)
-* Wednesday: 19.30 - 23.30(ish)
+* Sunday: 19.30 - 23.30
+* Wednesday: 19.30 - 23.30
 
 ### Loot distribution
 We'll to be using a combination of Loot Council and rolling to distribute loot.
@@ -36,15 +36,15 @@ If we're to be proven wrong, the system would be reevaluated.
 The current core is just north of 40+ players fairly evenly spread out across all classes.  
 
 Open slots:  
-[1] Resto Druid  
-[1] Hunter
+[2] Resto Druid  
+[1] Holy Paladin  
 
 If you can't get a hold of an officer ingame, follow the link below and we'll get in touch asap.
 [Apply](https://forms.gle/L4999y2iGFdHx6Sf9)
 
 ## Progress
 
-### Phase 1  
+### Phase 1 - Cleared  
 
 [X]MC - 10/10  
 [X]Ony  
