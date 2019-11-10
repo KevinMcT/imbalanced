@@ -25,11 +25,8 @@ Currently planned raid times are:
 * Wednesday: 19.30 - 23.30
 
 ### Loot distribution
-We'll to be using a combination of Loot Council and rolling to distribute loot.
 
-Regarding the council itself, it will consist of a rotating membership made up of a few officers and a few raiders.  
-Thus we avoid the situation of having a set group distributing the loot minimizing the risk of corruption. With that being said, the raid core consists of a fairly mature audience so we don't expect this to be an issue regardless.  
-If we're to be proven wrong, the system would be reevaluated.
+We're using a Loot council consisting of the class leaders.
 
 ## Join us (How can you join?!)
 
@@ -37,7 +34,7 @@ The current core is just north of 40+ players fairly evenly spread out across al
 
 Open slots:  
 [2] Resto Druid  
-[1] Holy Paladin  
+[1] Rogue  
 
 If you can't get a hold of an officer ingame, follow the link below and we'll get in touch asap.
 [Apply](https://forms.gle/L4999y2iGFdHx6Sf9)
